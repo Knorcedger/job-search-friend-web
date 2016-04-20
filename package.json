@@ -1,0 +1,22 @@
+{
+  "name": "job-search-friend-web",
+  "version": "1.0.0",
+  "description": "The frontend for Job Search Friend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "job",
+    "search",
+    "friend",
+    "react.js"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/Knorcedger/job-search-friend-web",
+  "author": "Knorcedger",
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-config-google": "^0.5.0"
+  }
+}
